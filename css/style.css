@@ -1,0 +1,147 @@
+.logodiv, .tick{
+
+	text-align: center;
+}
+body{
+	margin-top: 100px;
+	margin-bottom: 100px;
+	overflow-x: hidden;
+}
+h1{
+	font-size: 30px;
+	text-transform: uppercase;
+	text-align: center;
+	color: #6b5acd;
+}
+label.mainlabel {
+    width: 180px;
+    display: block;
+    float: left;
+    text-transform: uppercase;
+}
+.submitbtn{
+	text-align: center;
+}
+.formdiv {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #6b5acd;
+    color: #fff;
+}
+.sub{
+	margin-right: 5px; 
+	text-decoration: none;
+	background-color: #fff;
+    color: #000;
+}
+h2{
+	font-size: 30px;
+	text-transform: uppercase;
+	text-align: center;
+	color: #00b42c;
+}
+h3{
+	font-size: 26px;
+	text-transform: capitalize;
+	text-align: center;
+	color: #8401bb;
+}
+.goback{
+	display: block;
+	text-align: center;
+	color: #8401bb;
+    font-size: 26px;
+    font-weight: bold;
+}
+/*Assignment 3 CSS*/
+
+    .a1{
+        width: 100%;
+        height: 50px;
+        background-color: royalblue;
+    }
+    td ul{
+        float: left;
+    }
+    td ul li{
+        display: inline;
+        position: relative;
+        float: left;
+        list-style: none;
+        position: relative;
+    }
+    td ul li a{
+        display: block;
+        padding: 12px 20px;
+        text-decoration: none;
+    }
+    td ul li ul{
+        display: none;
+        position: absolute;
+        background-color: white;
+    }
+    td ul li:hover ul{
+        display: block;
+    }
+    td ul li ul li a {
+        padding: 20px;
+        float: left;
+    }
+    td ul li ul li{
+        width: 280px;
+        border-radius: 4px;
+        
+    } 
+    
+    td ul li ul li a:hover{
+        background-color: royalblue;
+    }
+    .img1{ 
+        width: 100%;
+    }
+    .tt{width: 100%;
+        ;}
+    .rt{background-color: royalblue;
+    }
+    .inline{display: inline-block;
+        color: white;
+        padding: 30px;
+        height: 50px 50px ;
+    }
+    .gg{
+        display: flex;
+        display: inline-block;
+        border: 2px solid white;
+        box-shadow  : 5px 10px gray ;
+        width: 300px;
+    margin: 2%;
+    padding: 20px 20px 20px 20px;
+    background-color: whitesmoke;
+    }
+    .main{
+        justify-content: space-between;
+        width: 100%;
+        margin: 10px;
+        
+    }
+    .hh{
+        display: flex;
+        border: 2px solid whitesmoke;
+        box-shadow: 5px 10px whitesmoke;
+        width: 300px;
+        margin: 2%;
+        padding: 20px 20px 20px 20px;
+        display: inline-block;
+    
+    } 
+    .images{
+    padding: 5%;
+   
+}
+    .button{
+        width: 85px;
+        font-size: small;
+
+    }
